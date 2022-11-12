@@ -7,13 +7,12 @@ function App() {
 
   return (
     
-    <View>
       <div className="App">
      
       <h1>Mi primer página desde la UPB</h1>
       
     </div>
-    </View>
+  
   )
 }
 
