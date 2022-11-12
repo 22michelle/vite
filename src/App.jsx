@@ -6,9 +6,13 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
+    
     <View>
-      <h1>Hola</h1>
+      <div className="App">
+     
+      <h1>Mi primer página desde la UPB</h1>
       
+    </div>
     </View>
   )
 }
